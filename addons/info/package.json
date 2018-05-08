@@ -21,7 +21,7 @@
     "glamorous": "^4.12.5",
     "global": "^4.3.2",
     "marksy": "^6.0.3",
-    "nested-object-assign": "^1.0.1",
+    "nested-object-assign": "^1.0.2",
     "prop-types": "^15.6.1",
     "react-addons-create-fragment": "^15.5.3",
     "react-lifecycles-compat": "^3.0.2",
